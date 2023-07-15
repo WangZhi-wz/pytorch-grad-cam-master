@@ -1,0 +1,1 @@
+from .TGANet import TGANet

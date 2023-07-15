@@ -1,0 +1,1 @@
+from models.STUNet.vit_seg_modeling_resnet_skip import TransResNetV2
